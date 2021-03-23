@@ -3,4 +3,4 @@ project(Tarea_EC2_Adapter)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Tarea_EC2_Adapter main.cpp)
+add_executable(Tarea_EC2_Adapter Adapter.cpp)
